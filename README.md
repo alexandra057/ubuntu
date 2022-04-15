@@ -5,4 +5,4 @@ Ubuntu post-install & configuration
 
 Test
 
-Some more comment
+Some more comment.
